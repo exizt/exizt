@@ -1,16 +1,45 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**exizt/exizt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![티스토리](https://img.shields.io/badge/Tistory_Blog-000000.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoV2luZG93cykiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6QjJDRkI0NUIwRTE5MTFFQzhDNEVFMENFQUQ4MjAxQjUiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6QjJDRkI0NUMwRTE5MTFFQzhDNEVFMENFQUQ4MjAxQjUiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDpCMkNGQjQ1OTBFMTkxMUVDOEM0RUUwQ0VBRDgyMDFCNSIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDpCMkNGQjQ1QTBFMTkxMUVDOEM0RUUwQ0VBRDgyMDFCNSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Po8YGScAAACfSURBVHja7JRhCoAgDIVdP3Z2z+HhvMZS2EJMcGpphIMHVo++2PYCIjIz6zCTKwVikA3yrHhGADCiEc9FiS1lWbqXTb9uxCOcFOgLRp+9rNsjnKUzdIXnrnLd7klaitxrz4pnzNrV7REOSA55w14r4Syd4feAmhmqeqv9n2qCX+U0AqvBrwE/vzROee+xGXYvzQ7+Dv4O/g7+j3N4CjAAoKIIMUURr6cAAAAASUVORK5CYII=&logoColor=white)](https://e2xist.tistory.com/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Stack
+### Skills & Platform
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-092E20?style=flat&logo=Flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)    
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white) 
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=iOS&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white) 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=Laravel&logoColor=white) 
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white) 
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=CodeIgniter&logoColor=white) 
+
+
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
+![javascript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
+![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=Swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=Kotlin&logoColor=white)
+![java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white) 
+![c++](https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)
+
+### Databases
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white) 
+
+
+### Tools
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white) 
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white) 
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=Visual-Studio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white) 
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=Android-Studio&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)
