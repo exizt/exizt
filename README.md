@@ -1,24 +1,23 @@
 ## Hi there 👋
 
-[![티스토리](https://img.shields.io/badge/Tistory_Blog-000000.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoV2luZG93cykiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6QjJDRkI0NUIwRTE5MTFFQzhDNEVFMENFQUQ4MjAxQjUiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6QjJDRkI0NUMwRTE5MTFFQzhDNEVFMENFQUQ4MjAxQjUiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDpCMkNGQjQ1OTBFMTkxMUVDOEM0RUUwQ0VBRDgyMDFCNSIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDpCMkNGQjQ1QTBFMTkxMUVDOEM0RUUwQ0VBRDgyMDFCNSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Po8YGScAAACfSURBVHja7JRhCoAgDIVdP3Z2z+HhvMZS2EJMcGpphIMHVo++2PYCIjIz6zCTKwVikA3yrHhGADCiEc9FiS1lWbqXTb9uxCOcFOgLRp+9rNsjnKUzdIXnrnLd7klaitxrz4pnzNrV7REOSA55w14r4Syd4feAmhmqeqv9n2qCX+U0AqvBrwE/vzROee+xGXYvzQ7+Dv4O/g7+j3N4CjAAoKIIMUURr6cAAAAASUVORK5CYII=&logoColor=white)](https://e2xist.tistory.com/)
+[![티스토리](https://img.shields.io/badge/Blog-000000.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoV2luZG93cykiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6QjJDRkI0NUIwRTE5MTFFQzhDNEVFMENFQUQ4MjAxQjUiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6QjJDRkI0NUMwRTE5MTFFQzhDNEVFMENFQUQ4MjAxQjUiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDpCMkNGQjQ1OTBFMTkxMUVDOEM0RUUwQ0VBRDgyMDFCNSIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDpCMkNGQjQ1QTBFMTkxMUVDOEM0RUUwQ0VBRDgyMDFCNSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Po8YGScAAACfSURBVHja7JRhCoAgDIVdP3Z2z+HhvMZS2EJMcGpphIMHVo++2PYCIjIz6zCTKwVikA3yrHhGADCiEc9FiS1lWbqXTb9uxCOcFOgLRp+9rNsjnKUzdIXnrnLd7klaitxrz4pnzNrV7REOSA55w14r4Syd4feAmhmqeqv9n2qCX+U0AqvBrwE/vzROee+xGXYvzQ7+Dv4O/g7+j3N4CjAAoKIIMUURr6cAAAAASUVORK5CYII=&logoColor=white)](https://e2xist.tistory.com/)
 
 
 
 ## Stack
 ### Skills & Platform
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-092E20?style=flat&logo=Flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)    
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white) 
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=iOS&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white) 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=Laravel&logoColor=white) 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white) 
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=CodeIgniter&logoColor=white) 
-
+![TensorFlow](https://img.shields.io/badge/&#8203;-TensorFlow-blue?style=flat-square&logo=TensorFlow&logoColor=FF6F00)
+![Pandas](https://img.shields.io/badge/&#8203;-Pandas-blue?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/&#8203;-scikit_learn-blue?style=flat-square&logo=scikit-learn&logoColor=F7931E)
+![Django](https://img.shields.io/badge/&#8203;-Django-blue?style=flat-square&logo=Django&logoColor=white)
+![Flask](https://img.shields.io/badge/&#8203;-Flask-blue?style=flat-square&logo=Flask&logoColor=white)
+![Docker](https://img.shields.io/badge/&#8203;-Docker-blue?style=flat-square&logo=Docker&logoColor=2496ED)    
+![Ubuntu](https://img.shields.io/badge/&#8203;-Ubuntu-blue?style=flat-square&logo=Ubuntu&logoColor=E95420) 
+![iOS](https://img.shields.io/badge/&#8203;-iOS-blue?style=flat-square&logo=iOS&logoColor=white)
+![Android](https://img.shields.io/badge/&#8203;-Android-blue?style=flat-square&logo=Android&logoColor=3DDC84) 
+![Laravel](https://img.shields.io/badge/&#8203;-Laravel-blue?style=flat-square&logo=Laravel&logoColor=FF2D20) 
+![Spring](https://img.shields.io/badge/&#8203;-Spring-blue?style=flat-square&logo=Spring&logoColor=6DB33F) 
+![CodeIgniter](https://img.shields.io/badge/&#8203;-CodeIgniter-blue?style=flat-square&logo=CodeIgniter&logoColor=EF4223) 
 
 
 ### Languages
