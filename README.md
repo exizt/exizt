@@ -6,28 +6,28 @@
 
 ## Stack
 ### Skills & Platform
-[![TensorFlow](https://img.shields.io/badge/&#8203;-TensorFlow-blue?style=flat-square&logo=TensorFlow&logoColor=FF6F00)](https://www.tensorflow.org/)
-[![Pandas](https://img.shields.io/badge/&#8203;-Pandas-blue?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/)
-[![scikit-learn](https://img.shields.io/badge/&#8203;-scikit_learn-blue?style=flat-square&logo=scikit-learn&logoColor=F7931E)](https://scikit-learn.org/stable/modules/classes.html)
-[![Django](https://img.shields.io/badge/&#8203;-Django-blue?style=flat-square&logo=Django&logoColor=white)](https://docs.djangoproject.com/)
-[![Flask](https://img.shields.io/badge/&#8203;-Flask-blue?style=flat-square&logo=Flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![Docker](https://img.shields.io/badge/&#8203;-Docker-blue?style=flat-square&logo=Docker&logoColor=2496ED)](https://docs.docker.com/)
-[![Ubuntu](https://img.shields.io/badge/&#8203;-Ubuntu-blue?style=flat-square&logo=Ubuntu&logoColor=E95420)](https://ubuntu.com/)
-![iOS](https://img.shields.io/badge/&#8203;-iOS-blue?style=flat-square&logo=iOS&logoColor=white)
-![Android](https://img.shields.io/badge/&#8203;-Android-blue?style=flat-square&logo=Android&logoColor=3DDC84)
-[![Laravel](https://img.shields.io/badge/&#8203;-Laravel-blue?style=flat-square&logo=Laravel&logoColor=FF2D20)](https://laravel.com/docs/)
-[![Spring](https://img.shields.io/badge/&#8203;-Spring-blue?style=flat-square&logo=Spring&logoColor=6DB33F)](https://docs.spring.io/)
-[![CodeIgniter](https://img.shields.io/badge/&#8203;-CodeIgniter-blue?style=flat-square&logo=CodeIgniter&logoColor=EF4223)](https://codeigniter.com/docs) 
+[![TensorFlow](https://img.shields.io/badge/&#8203;-TensorFlow-3776ab?style=flat-square&logo=TensorFlow&logoColor=FF6F00)](https://www.tensorflow.org/)
+[![Pandas](https://img.shields.io/badge/&#8203;-Pandas-3776ab?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/)
+[![scikit-learn](https://img.shields.io/badge/&#8203;-scikit_learn-3776ab?style=flat-square&logo=scikit-learn&logoColor=F7931E)](https://scikit-learn.org/stable/modules/classes.html)
+[![Django](https://img.shields.io/badge/&#8203;-Django-3776ab?style=flat-square&logo=Django&logoColor=white)](https://docs.djangoproject.com/)
+[![Flask](https://img.shields.io/badge/&#8203;-Flask-3776ab?style=flat-square&logo=Flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Docker](https://img.shields.io/badge/&#8203;-Docker-3776ab?style=flat-square&logo=Docker&logoColor=2496ED)](https://docs.docker.com/)
+[![Ubuntu](https://img.shields.io/badge/&#8203;-Ubuntu-3776ab?style=flat-square&logo=Ubuntu&logoColor=E95420)](https://ubuntu.com/)
+![iOS](https://img.shields.io/badge/&#8203;-iOS-3776ab?style=flat-square&logo=iOS&logoColor=white)
+![Android](https://img.shields.io/badge/&#8203;-Android-3776ab?style=flat-square&logo=Android&logoColor=3DDC84)
+[![Laravel](https://img.shields.io/badge/&#8203;-Laravel-3776ab?style=flat-square&logo=Laravel&logoColor=FF2D20)](https://laravel.com/docs/)
+[![Spring](https://img.shields.io/badge/&#8203;-Spring-3776ab?style=flat-square&logo=Spring&logoColor=6DB33F)](https://docs.spring.io/)
+[![CodeIgniter](https://img.shields.io/badge/&#8203;-CodeIgniter-3776ab?style=flat-square&logo=CodeIgniter&logoColor=EF4223)](https://codeigniter.com/docs) 
 
 
 ### Languages
-[![Python](https://img.shields.io/badge/&#8203;-Python-blue?style=flat&logo=Python&logoColor=white)](https://docs.python.org/)
-![javascript](https://img.shields.io/badge/&#8203;-JS-blue?style=flat&logo=JavaScript&logoColor=F7DF1E)
-[![typescript](https://img.shields.io/badge/&#8203;-TypeScript-blue?style=flat&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/docs/)
-[![Swift](https://img.shields.io/badge/&#8203;-Swift-blue?style=flat&logo=Swift&logoColor=FA7343)](https://swift.org/documentation/)
-[![Kotlin](https://img.shields.io/badge/&#8203;-Kotlin-blue?style=flat&logo=Kotlin&logoColor=0095D5)](https://kotlinlang.org/docs/)
-![java](https://img.shields.io/badge/&#8203;-Java-blue?style=flat&logo=Java&logoColor=white) 
-![c++](https://img.shields.io/badge/&#8203;-C++-blue?style=flat&logo=C%2B%2B&logoColor=white)
+[![Python](https://img.shields.io/badge/&#8203;-Python-3776ab?style=flat&logo=Python&logoColor=white)](https://docs.python.org/)
+![javascript](https://img.shields.io/badge/&#8203;-JS-3776ab?style=flat&logo=JavaScript&logoColor=F7DF1E)
+[![typescript](https://img.shields.io/badge/&#8203;-TypeScript-3776ab?style=flat&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/docs/)
+[![Swift](https://img.shields.io/badge/&#8203;-Swift-3776ab?style=flat&logo=Swift&logoColor=FA7343)](https://swift.org/documentation/)
+[![Kotlin](https://img.shields.io/badge/&#8203;-Kotlin-3776ab?style=flat&logo=Kotlin&logoColor=0095D5)](https://kotlinlang.org/docs/)
+![java](https://img.shields.io/badge/&#8203;-Java-3776ab?style=flat&logo=Java&logoColor=white) 
+![c++](https://img.shields.io/badge/&#8203;-C++-3776ab?style=flat&logo=C%2B%2B&logoColor=white)
 
 
 ### Databases
