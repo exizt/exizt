@@ -26,14 +26,14 @@
 [![typescript](https://img.shields.io/badge/&#8203;-TypeScript-3776ab?style=flat&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/docs/)
 [![Swift](https://img.shields.io/badge/&#8203;-Swift-3776ab?style=flat&logo=Swift&logoColor=FA7343)](https://swift.org/documentation/)
 [![Kotlin](https://img.shields.io/badge/&#8203;-Kotlin-3776ab?style=flat&logo=Kotlin&logoColor=0095D5)](https://kotlinlang.org/docs/)
-![java](https://img.shields.io/badge/&#8203;-Java-3776ab?style=flat&logo=Java&logoColor=white) 
+[![java](https://img.shields.io/badge/&#8203;-Java-3776ab?style=flat&logo=Java&logoColor=white)](https://www.oracle.com/java/)
 ![c++](https://img.shields.io/badge/&#8203;-C++-3776ab?style=flat&logo=C%2B%2B&logoColor=white)
 
 
 ### Databases
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white) 
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)](https://www.oracle.com/database/technologies/xe-downloads.html)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)](https://www.mysql.com/)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white)](https://www.sqlite.org/index.html)
 
 
 ### Tools
