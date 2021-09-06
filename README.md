@@ -37,9 +37,9 @@
 
 
 ### Tools
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white) 
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white) 
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=Visual-Studio&logoColor=white)
+[![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows)
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white)](https://code.visualstudio.com/download)
+[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=Visual-Studio&logoColor=white)](https://visualstudio.microsoft.com/ko/downloads/)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white) 
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=Android-Studio&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)
+[![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=Android-Studio&logoColor=white)](https://developer.android.com/studio)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)](https://git-scm.com/downloads)
