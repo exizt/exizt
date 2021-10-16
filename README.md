@@ -22,11 +22,11 @@
 
 ### Languages
 [![Python](https://img.shields.io/badge/&#8203;-Python-3776ab?style=flat&logo=Python&logoColor=white)](https://docs.python.org/)
-![javascript](https://img.shields.io/badge/&#8203;-JS-3776ab?style=flat&logo=JavaScript&logoColor=F7DF1E)
-[![typescript](https://img.shields.io/badge/&#8203;-TypeScript-3776ab?style=flat&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/docs/)
+[![java](https://img.shields.io/badge/&#8203;-Java-3776ab?style=flat&logo=Java&logoColor=white)](https://www.oracle.com/java/)
 [![Swift](https://img.shields.io/badge/&#8203;-Swift-3776ab?style=flat&logo=Swift&logoColor=FA7343)](https://swift.org/documentation/)
 [![Kotlin](https://img.shields.io/badge/&#8203;-Kotlin-3776ab?style=flat&logo=Kotlin&logoColor=0095D5)](https://kotlinlang.org/docs/)
-[![java](https://img.shields.io/badge/&#8203;-Java-3776ab?style=flat&logo=Java&logoColor=white)](https://www.oracle.com/java/)
+![javascript](https://img.shields.io/badge/&#8203;-JS-3776ab?style=flat&logo=JavaScript&logoColor=F7DF1E)
+[![typescript](https://img.shields.io/badge/&#8203;-TypeScript-3776ab?style=flat&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/docs/)
 ![c++](https://img.shields.io/badge/&#8203;-C++-3776ab?style=flat&logo=C%2B%2B&logoColor=white)
 
 
