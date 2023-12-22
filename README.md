@@ -49,9 +49,11 @@
 
 
 ### OS, IDE, Tools
-[![Docker](https://img.shields.io/badge/&#8203;-Docker-3776ab?style=flat-square&logo=Docker&logoColor=2496ED)](https://docs.docker.com/)
-[![Ubuntu](https://img.shields.io/badge/&#8203;-Ubuntu-3776ab?style=flat-square&logo=Ubuntu&logoColor=E95420)](https://ubuntu.com/)
-[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white)](https://code.visualstudio.com/download)
-[![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=Android-Studio&logoColor=white)](https://developer.android.com/studio)
-[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=Visual-Studio&logoColor=white)](https://visualstudio.microsoft.com/ko/downloads/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)](https://git-scm.com/downloads)
+- [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white)](https://code.visualstudio.com/download)
+  [![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows)
+  [![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=Visual-Studio&logoColor=white)](https://visualstudio.microsoft.com/ko/downloads/)
+  [![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=Android-Studio&logoColor=white)](https://developer.android.com/studio)
+  ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white) 
+- [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)](https://git-scm.com/downloads)
+- [![Docker](https://img.shields.io/badge/&#8203;-Docker-3776ab?style=flat-square&logo=Docker&logoColor=2496ED)](https://docs.docker.com/)
+- [![Ubuntu](https://img.shields.io/badge/&#8203;-Ubuntu-3776ab?style=flat-square&logo=Ubuntu&logoColor=E95420)](https://ubuntu.com/)
