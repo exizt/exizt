@@ -10,7 +10,7 @@
   [![Django](https://img.shields.io/badge/&#8203;-Django-3776ab?style=flat-square&logo=Django&logoColor=white)](https://docs.djangoproject.com/)
   [![Flask](https://img.shields.io/badge/&#8203;-Flask-3776ab?style=flat-square&logo=Flask&logoColor=white)](https://flask.palletsprojects.com/)
   [![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows)
-  [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)
+  [![SQLAlchemy](https://img.shields.io/badge/&#8203;-SQLAlchemy-3776ab?style=flat&logo=sqlalchemy&logoColor=D71F00)](https://www.sqlalchemy.org/)
 - [![java](https://img.shields.io/badge/Java-3776ab)](https://www.oracle.com/java/)
   [![Kotlin](https://img.shields.io/badge/&#8203;-Kotlin-3776ab?style=flat&logo=Kotlin&logoColor=0095D5)](https://kotlinlang.org/)
   [![Spring](https://img.shields.io/badge/&#8203;-Spring-3776ab?style=flat-square&logo=Spring&logoColor=6DB33F)](https://docs.spring.io/)
