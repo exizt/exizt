@@ -6,6 +6,26 @@
 
 ## Stack
 ### Overview
+- __Language__: [![Python](https://img.shields.io/badge/&#8203;-Python-3776ab?style=flat&logo=Python&logoColor=white)](https://docs.python.org/)
+[![java](https://img.shields.io/badge/Java-3776ab)](https://www.oracle.com/java/)
+[![typescript](https://img.shields.io/badge/&#8203;-TypeScript-3776ab?style=flat&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
+![javascript](https://img.shields.io/badge/&#8203;-JavaScript-3776ab?style=flat&logo=JavaScript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/&#8203;-PHP-777BB4?style=flat&logo=PHP&logoColor=white)
+[![Swift](https://img.shields.io/badge/&#8203;-Swift-3776ab?style=flat&logo=Swift&logoColor=FA7343)](https://swift.org/)
+[![Kotlin](https://img.shields.io/badge/&#8203;-Kotlin-3776ab?style=flat&logo=Kotlin&logoColor=0095D5)](https://kotlinlang.org/)
+![c++](https://img.shields.io/badge/&#8203;-C++-3776ab?style=flat&logo=C%2B%2B&logoColor=white)
+- __Framework__: [![Django](https://img.shields.io/badge/&#8203;-Django-3776ab?style=flat-square&logo=Django&logoColor=white)](https://docs.djangoproject.com/)
+[![Flask](https://img.shields.io/badge/&#8203;-Flask-3776ab?style=flat-square&logo=Flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Spring](https://img.shields.io/badge/&#8203;-Spring-3776ab?style=flat-square&logo=Spring&logoColor=6DB33F)](https://docs.spring.io/)
+[![Laravel](https://img.shields.io/badge/&#8203;-Laravel-3776ab?style=flat-square&logo=Laravel&logoColor=FF2D20)](https://laravel.com/docs/)
+[![CodeIgniter](https://img.shields.io/badge/&#8203;-CodeIgniter-3776ab?style=flat-square&logo=CodeIgniter&logoColor=EF4223)](https://codeigniter.com/docs) 
+- __Database__: [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)](https://en.wikipedia.org/wiki/Oracle_Database)
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white)](https://mariadb.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)](https://www.mysql.com/)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white)](https://www.sqlite.org/)
+
+
+### Details
 - [![Python](https://img.shields.io/badge/&#8203;-Python-3776ab?style=flat&logo=Python&logoColor=white)](https://docs.python.org/)
   [![Django](https://img.shields.io/badge/&#8203;-Django-3776ab?style=flat-square&logo=Django&logoColor=white)](https://docs.djangoproject.com/)
   [![Flask](https://img.shields.io/badge/&#8203;-Flask-3776ab?style=flat-square&logo=Flask&logoColor=white)](https://flask.palletsprojects.com/)
