@@ -37,6 +37,7 @@
 - [![java](https://img.shields.io/badge/Java-3776ab)](https://www.oracle.com/java/)
   [![Kotlin](https://img.shields.io/badge/&#8203;-Kotlin-3776ab?style=flat&logo=Kotlin&logoColor=0095D5)](https://kotlinlang.org/)
   [![Spring](https://img.shields.io/badge/&#8203;-Spring-3776ab?style=flat-square&logo=Spring&logoColor=6DB33F)](https://docs.spring.io/)
+  [![Spring Boot](https://img.shields.io/badge/&#8203;-Spring_Boot-3776ab?style=flat-square&logo=Spring&logoColor=6DB33F)](https://docs.spring.io/)
 - ![PHP](https://img.shields.io/badge/&#8203;-PHP-777BB4?style=flat&logo=PHP&logoColor=white)
   [![Laravel](https://img.shields.io/badge/&#8203;-Laravel-3776ab?style=flat-square&logo=Laravel&logoColor=FF2D20)](https://laravel.com/docs/)
   [![CodeIgniter](https://img.shields.io/badge/&#8203;-CodeIgniter-3776ab?style=flat-square&logo=CodeIgniter&logoColor=EF4223)](https://codeigniter.com/docs) 
